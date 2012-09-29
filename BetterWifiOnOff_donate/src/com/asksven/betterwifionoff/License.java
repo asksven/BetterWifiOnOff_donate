@@ -1,4 +1,4 @@
-package com.asksven.betterbatterystats.configuration;
+package com.asksven.betterwifionoff;
 
 
 

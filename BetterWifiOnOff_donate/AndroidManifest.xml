@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.betterwifionoff_donate"
+    package="com.asksven.betterwifionoff_donate"
     android:versionCode="1"
     android:versionName="1.0.0.0">
 
